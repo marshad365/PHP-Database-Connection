@@ -1,4 +1,11 @@
+
 <?php	
+/* 
+Author:  Muhammad Arshad
+Version: 1.0
+Licence: GNU
+url: 	 channel2.net
+*/
 	date_default_timezone_set("Europe/Stockholm");
 	class databaseManager {
 		private $dns='mysql:host=hostNameOrIP;dbname=databaseName;charset=utf8';
